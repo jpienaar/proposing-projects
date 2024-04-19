@@ -54,7 +54,7 @@ GitHub
 
 ### Does the project sits in its own GH organization?
 
-No, but we intend to move it to its own GH organization.
+Yes (iree-org).
 
 ### Do you have the GH DCO app active in the repos?
 
