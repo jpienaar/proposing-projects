@@ -103,7 +103,7 @@ Yes, documented in https://github.com/iree-org/iree/blob/main/MAINTAINERS.md
 
 ### Total number of contributors to the project including their affiliations.
 
-~100 in lifetime, 30 AMD, 20 Google, 3 ARM, 3 Fraunhoffer instiatute, additional from startups and groups not active.
+190 in lifetime, in top 100 the current affiliations are 30 AMD, 20 Google, 3 ARM, 3 Fraunhoffer institute.
 
 ### Does the project have a release methodology? Please document it in RELEASES.md.
 
