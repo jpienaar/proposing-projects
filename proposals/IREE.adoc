@@ -90,18 +90,18 @@ GitHub
 | Name                   | Email                            | Organization | Time    |
 | ---------------------- | -------------------------------- | ------------ | ------- |
 | Ben Vanik              | ben.vanik@gmail.com              | AMD          | 5 years |
-| Hanhan Wang            |                                  | AMD          | 5 years |
+| Hanhan Wang            | hanhan0912@gmail.com             | AMD          | 5 years |
 | Jacques Pienaar        | jacques@japienaar.info           | Google       | 5 years |
-| Lei Zhang              |                                  | AMD          | 5 years |
-| Mahesh Ravishankar     |                                  | AMD          | 5 years |
+| Lei Zhang              | antiagainst@gmail.com            | AMD          | 5 years |
+| Mahesh Ravishankar     | mahesh.ravishankar@gmail.com     | AMD          | 5 years |
 | Marius Brehler         | marius.brehler@iml.fraunhofer.de | Fraunhoffer  | 5 years |
-| Rob Suderman           |                                  | AMD          | 5 years |
-| Scott Todd             |                                  | AMD          | 5 years |
+| Rob Suderman           | rob.suderman@gmail.com           | AMD          | 5 years |
+| Scott Todd             | scott.todd0@gmail.com            | AMD          | 5 years |
 | Stella Laurenzo        | stellaraccident@gmail.com        | AMD          | 5 years |
 
 ### Have the project defined the roles of contributor, committer, maintainer, etc.? Please document it in MAINTAINERS.md.
 
-TBD
+Yes, documented in https://github.com/iree-org/iree/blob/main/MAINTAINERS.md
 
 ### Total number of contributors to the project including their affiliations.
 
